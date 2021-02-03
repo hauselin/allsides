@@ -1,0 +1,827 @@
+source,source_type,allsides_rate,community_rate,community_total,community_agree,community_disagree,community_agree_prop
+Aaron Withe,author,right,somewhat agree,39,23,16,0.5897435897435898
+Al Cardenas,author,right,somewhat agree,786,449,337,0.5712468193384224
+Alan Dershowitz,author,lean right,absolutely disagree,475,116,359,0.24421052631578946
+AllSides Staff,author,mixed,strongly agree,51,36,15,0.7058823529411765
+Allysia Finley (Wall Street Journal),author,right,somewhat disagree,1300,617,683,0.4746153846153846
+Andrew Napolitano,author,right,somewhat disagree,1819,822,997,0.4518966465090709
+Andrew Sullivan,author,lean right,somewhat agree,376,199,177,0.5292553191489362
+Andrew Yang,author,lean left,agree,349,220,129,0.6303724928366762
+Andy Meek,author,lean left,somewhat agree,21,12,9,0.5714285714285714
+Andy Ngo,author,lean right,somewhat disagree,723,327,396,0.45228215767634855
+Ann Coulter,author,right,absolutely agree,2283,1873,410,0.8204117389399912
+Annafi Wahed,author,lean left,somewhat agree,616,315,301,0.5113636363636364
+Arkadi Gerney,author,lean left,somewhat agree,507,276,231,0.5443786982248521
+Avanti Giridharan,author,center,somewhat agree,28,16,12,0.5714285714285714
+Bari Weiss,author,center,somewhat agree,142,80,62,0.5633802816901409
+Bella Jasper,author,lean left,somewhat agree,27,14,13,0.5185185185185185
+Ben Sargent (cartoonist),author,left,somewhat agree,549,293,256,0.5336976320582878
+Ben Shapiro,author,right,strongly agree,3712,2568,1144,0.6918103448275862
+Ben Stein,author,lean right,somewhat agree,1273,756,517,0.593872741555381
+Bernie Goldberg,author,lean right,agree,70,46,24,0.6571428571428571
+Beth Ballentine,author,center,somewhat disagree,804,374,430,0.4651741293532338
+Beth Hicks,author,right,agree,23,15,8,0.6521739130434783
+Billy Binion,author,center,somewhat agree,503,285,218,0.5666003976143141
+Bob Barr,author,right,somewhat agree,53,29,24,0.5471698113207547
+Bob Gorrell (cartoonist),author,right,somewhat agree,556,328,228,0.5899280575539568
+Bonnie Kristian,author,center,somewhat agree,21,12,9,0.5714285714285714
+Brad Parscale,author,right,absolutely agree,103,83,20,0.8058252427184466
+Brandon Rennels,author,lean left,disagree,16,6,10,0.375
+Brent Bozell,author,right,somewhat agree,640,339,301,0.5296875
+Bret Stephens,author,lean right,somewhat disagree,725,341,384,0.4703448275862069
+Cal Thomas,author,right,agree,18,12,6,0.6666666666666666
+Carrie Lukas,author,right,somewhat agree,461,260,201,0.5639913232104121
+Cathy Young,author,lean right,somewhat disagree,173,78,95,0.4508670520231214
+Chan Lowe (cartoonist),author,left,somewhat disagree,479,236,243,0.49269311064718163
+Charles Blow,author,lean left,somewhat disagree,697,330,367,0.4734576757532281
+Charles Krauthammer,author,lean right,somewhat agree,1444,784,660,0.5429362880886427
+Charles Lane,author,center,somewhat disagree,124,52,72,0.41935483870967744
+Charlie Kirk,author,right,strongly agree,458,337,121,0.7358078602620087
+Chip Bok (cartoonist),author,right,somewhat agree,405,216,189,0.5333333333333333
+Chris Britt (cartoonist),author,center,agree,334,207,127,0.6197604790419161
+Chris Ruddy,author,right,somewhat disagree,468,199,269,0.4252136752136752
+Chris Wallace,author,center,disagree,396,151,245,0.3813131313131313
+Christiane Amanpour,author,lean left,somewhat disagree,1221,536,685,0.438984438984439
+Christopher Buskirk,author,lean right,somewhat agree,316,182,134,0.5759493670886076
+Chuck Asay (cartoonist),author,right,somewhat agree,418,231,187,0.5526315789473685
+Clara Nevins,author,lean left,somewhat disagree,14,6,8,0.42857142857142855
+Clay Bennett (cartoonist),author,left,somewhat agree,342,196,146,0.5730994152046783
+Conor Friedersdorf,author,center,somewhat disagree,152,67,85,0.4407894736842105
+Damon Linker,author,lean left,somewhat agree,673,337,336,0.5007429420505201
+Dan Lucas,author,right,somewhat agree,214,120,94,0.5607476635514018
+Dan Schnur,author,center,disagree,21,8,13,0.38095238095238093
+Dan Wasserman (cartoonist),author,left,agree,171,114,57,0.6666666666666666
+Dana Milbank,author,center,disagree,621,231,390,0.3719806763285024
+Dana Summers (cartoonist),author,lean right,somewhat disagree,272,131,141,0.48161764705882354
+David Brooks,author,lean right,somewhat disagree,1011,451,560,0.44609297725024727
+David French,author,lean right,somewhat agree,101,60,41,0.594059405940594
+David Frum,author,lean right,disagree,50,19,31,0.38
+David Harsanyi,author,right,somewhat agree,46,27,19,0.5869565217391305
+David Holmes,author,lean left,somewhat agree,190,110,80,0.5789473684210527
+David Ignatius,author,center,somewhat disagree,457,189,268,0.4135667396061269
+David Leonhardt,author,lean left,somewhat agree,353,196,157,0.5552407932011332
+David Petraeus,author,center,somewhat disagree,54,25,29,0.46296296296296297
+Debilyn Molineaux,author,lean left,somewhat agree,7,4,3,0.5714285714285714
+Debra Saunders,author,right,somewhat agree,325,181,144,0.556923076923077
+Dennis Prager,author,right,agree,441,279,162,0.6326530612244898
+Diamond and Silk,author,right,strongly agree,271,197,74,0.7269372693726938
+Dick Locher (cartoonist),author,right,somewhat disagree,159,71,88,0.44654088050314467
+Dick Morris,author,lean right,somewhat disagree,535,239,296,0.44672897196261685
+Dr. Abdul El-Sayed,author,left,agree,74,48,26,0.6486486486486487
+Drew Litton (cartoonist),author,center,disagree,175,60,115,0.34285714285714286
+Drew Sheneman (cartoonist),author,left,somewhat agree,196,113,83,0.576530612244898
+Dylan Rose,author,center,somewhat agree,9,5,4,0.5555555555555556
+E J Dionne,author,left,somewhat agree,1022,562,460,0.5499021526418787
+Ed Rogers,author,right,agree,281,175,106,0.6227758007117438
+Edward Morrissey,author,right,somewhat agree,336,175,161,0.5208333333333334
+Eli Pariser,author,left,somewhat agree,110,66,44,0.6
+Eli Steinberg,author,center,somewhat disagree,16,7,9,0.4375
+Elie Mystal,author,left,somewhat agree,26,14,12,0.5384615384615384
+Eric Allie (cartoonist),author,right,somewhat agree,286,159,127,0.5559440559440559
+Eric Boehm,author,lean right,,14,7,7,0.5
+Eric Holder,author,lean left,absolutely disagree,438,90,348,0.2054794520547945
+Erik Wemple,author,center,somewhat disagree,610,258,352,0.42295081967213116
+Eugene Robinson,author,left,somewhat agree,525,310,215,0.5904761904761905
+Ezra Klein,author,left,agree,798,483,315,0.6052631578947368
+Fareed Zakaria,author,center,disagree,1208,423,785,0.35016556291390727
+Frank Bruni,author,lean left,somewhat disagree,317,145,172,0.45741324921135645
+Frank Miniter,author,right,somewhat agree,661,335,326,0.5068078668683812
+Froma Harrop,author,lean left,somewhat agree,198,104,94,0.5252525252525253
+Gabrielle Giffords,author,lean left,somewhat disagree,88,40,48,0.45454545454545453
+Gary Markstein (cartoonist),author,center,somewhat disagree,164,70,94,0.4268292682926829
+Gary Varvel (cartoonist),author,right,strongly agree,125,91,34,0.728
+George W. Bush,author,lean right,strongly agree,188,130,58,0.6914893617021277
+George Will,author,right,disagree,1427,548,879,0.3840224246671338
+Gina Baleria,author,lean left,agree,8,5,3,0.625
+Glenn Beck,author,right,absolutely agree,1252,954,298,0.7619808306709265
+Glenn Greenwald,author,lean left,disagree,67,26,41,0.3880597014925373
+Glenn Harlan Reynolds,author,lean right,somewhat agree,24,14,10,0.5833333333333334
+Glenn McCoy (cartoonist),author,right,somewhat agree,105,56,49,0.5333333333333333
+Grover Norquist,author,right,strongly agree,498,373,125,0.748995983935743
+Guest Writer - Center,author,center,somewhat disagree,146,60,86,0.410958904109589
+Guest Writer - Left,author,lean left,somewhat disagree,532,220,312,0.41353383458646614
+Guest Writer - Right,author,lean right,somewhat disagree,660,275,385,0.4166666666666667
+H.R. McMaster,author,center,strongly agree,50,34,16,0.68
+Heather Mac Donald,author,right,somewhat disagree,323,141,182,0.43653250773993807
+Helen Andrews,author,lean right,agree,19,12,7,0.631578947368421
+Henry A. Brechter,author,center,somewhat disagree,150,74,76,0.49333333333333335
+Henry Payne (cartoonist),author,right,somewhat disagree,206,93,113,0.45145631067961167
+Henry Windsor,author,lean left,strongly agree,10,7,3,0.7
+Hirsh Joshi,author,left,somewhat agree,88,50,38,0.5681818181818182
+Howard Kurtz,author,center,somewhat agree,896,498,398,0.5558035714285714
+Hyria Stuart,author,lean left,absolutely agree,1,1,0,1.0
+Jack Ohman (cartoonist),author,left,agree,117,75,42,0.6410256410256411
+Jack Welch,author,lean right,somewhat agree,258,139,119,0.5387596899224806
+Jackson Lanzer,author,center,agree,21,13,8,0.6190476190476191
+James Bovard,author,lean right,agree,71,43,28,0.6056338028169014
+James Coan,author,center,somewhat agree,22,12,10,0.5454545454545454
+James Hohmann,author,lean right,somewhat disagree,164,73,91,0.4451219512195122
+James Mattis,author,center,somewhat agree,164,89,75,0.5426829268292683
+James Pethokoukis,author,lean right,somewhat agree,199,101,98,0.507537688442211
+James Poulos,author,right,somewhat agree,132,76,56,0.5757575757575758
+Jared McKiernan,author,center,somewhat agree,15,9,6,0.6
+Jeff Danziger (cartoonist),author,left,somewhat agree,142,75,67,0.528169014084507
+Jeff Flake,author,lean right,strongly disagree,266,83,183,0.31203007518796994
+Jeff Jacoby,author,right,somewhat agree,212,125,87,0.589622641509434
+Jeff Spross,author,left,somewhat agree,71,42,29,0.5915492957746479
+Jeff Stahler (cartoonist),author,left,somewhat agree,153,91,62,0.5947712418300654
+Jen Sorensen (cartoonist),author,left,agree,138,83,55,0.6014492753623188
+Jennifer Rubin,author,lean left,disagree,587,214,373,0.3645655877342419
+Jeremy E Sherman,author,lean left,somewhat disagree,89,40,49,0.449438202247191
+Jeremy Garson,author,lean left,somewhat agree,9,5,4,0.5555555555555556
+Jerry Bowyer,author,right,disagree,417,162,255,0.38848920863309355
+Jerry Holbert (cartoonist),author,right,somewhat agree,148,82,66,0.5540540540540541
+Jim Geraghty,author,lean right,somewhat agree,22,12,10,0.5454545454545454
+Jim Morin (cartoonist),author,left,strongly agree,97,66,31,0.6804123711340206
+Jim Obergefell,author,lean left,somewhat agree,71,36,35,0.5070422535211268
+Jim Rutenberg,author,lean left,somewhat agree,151,83,68,0.5496688741721855
+Joan Blades,author,left,somewhat disagree,254,106,148,0.41732283464566927
+Joan Walsh,author,left,agree,31,19,12,0.6129032258064516
+Joe Scarborough,author,lean right,absolutely disagree,1436,265,1171,0.18454038997214484
+Joel Pett (cartoonist),author,left,somewhat agree,150,77,73,0.5133333333333333
+John Boehner,author,right,somewhat disagree,640,265,375,0.4140625
+John Deering (cartoonist),author,center,somewhat disagree,138,68,70,0.4927536231884058
+John Fund,author,lean right,somewhat disagree,310,150,160,0.4838709677419355
+"John Gable, AllSides Founder",author,lean right,somewhat disagree,466,203,263,0.4356223175965665
+John K. Herr,author,lean right,somewhat agree,110,62,48,0.5636363636363636
+John Lewis,author,lean left,somewhat disagree,30,14,16,0.4666666666666667
+John Pudner,author,right,somewhat disagree,188,87,101,0.4627659574468085
+John R. Wood Jr.,author,center,somewhat agree,27,15,12,0.5555555555555556
+John Stossel,author,lean right,somewhat agree,1350,773,577,0.5725925925925925
+Jon Terbush,author,lean left,somewhat disagree,299,123,176,0.411371237458194
+Jonah Goldberg,author,right,disagree,239,89,150,0.3723849372384937
+Jonathan Chait,author,left,somewhat agree,284,152,132,0.5352112676056338
+Jonathan Haidt,author,center,agree,131,80,51,0.6106870229007634
+Jonathan Miller,author,left,somewhat disagree,187,92,95,0.4919786096256685
+Jordan Weissmann,author,left,somewhat disagree,25,11,14,0.44
+Joseph Ratliff,author,lean left,,20,10,10,0.5
+Jreg (Youtuber),author,center,somewhat disagree,71,32,39,0.4507042253521127
+Juan Williams,author,lean left,somewhat agree,986,513,473,0.5202839756592292
+Judy Sheindlin,author,center,disagree,88,32,56,0.36363636363636365
+Julian Zelizer,author,lean left,somewhat disagree,336,155,181,0.46130952380952384
+Julie Mastrine,author,lean right,somewhat agree,36,21,15,0.5833333333333334
+Karl Rove,author,lean right,somewhat disagree,34,15,19,0.4411764705882353
+Kathleen Parker,author,lean right,somewhat agree,391,222,169,0.5677749360613811
+Katie Hill,author,lean left,somewhat disagree,123,57,66,0.4634146341463415
+Kelly Murphy,author,lean left,,12,6,6,0.5
+Ken Catalino (cartoonist),author,right,somewhat disagree,78,38,40,0.48717948717948717
+Kevin Kallaugher (cartoonist),author,lean left,somewhat agree,92,51,41,0.5543478260869565
+Kimberley A. Strassel,author,right,agree,346,213,133,0.615606936416185
+Kirsten Powers,author,lean left,somewhat agree,235,125,110,0.5319148936170213
+Kristin Hansen,author,lean left,strongly disagree,12,4,8,0.3333333333333333
+Kwame Raoul,author,lean left,somewhat disagree,21,9,12,0.42857142857142855
+Kyle Smith,author,lean right,somewhat agree,20,11,9,0.55
+Lalo Alcaraz (cartoonist),author,left,agree,83,52,31,0.6265060240963856
+Lanhee Chen,author,right,somewhat disagree,184,80,104,0.43478260869565216
+Laura Rose Junco,author,center,somewhat disagree,36,17,19,0.4722222222222222
+Lauren Duca,author,left,somewhat agree,177,98,79,0.5536723163841808
+Leana Wen,author,lean left,disagree,38,15,23,0.39473684210526316
+Left Guest Commentaries,author,left,somewhat disagree,249,117,132,0.46987951807228917
+Leonard Pitts Jr,author,left,somewhat agree,217,124,93,0.5714285714285714
+Lisa Benson (cartoonist),author,right,somewhat agree,143,74,69,0.5174825174825175
+Lisa Gable,author,right,somewhat disagree,138,67,71,0.4855072463768116
+Lucy Pinto,author,lean left,strongly disagree,12,4,8,0.3333333333333333
+Marc A. Thiessen,author,right,agree,700,440,260,0.6285714285714286
+Marc Joffe,author,lean right,,8,4,4,0.5
+Marcia Beckford,author,lean left,,14,7,7,0.5
+Mario Nicolais,author,lean right,somewhat disagree,14,6,8,0.42857142857142855
+Mark Begich,author,left,somewhat agree,167,90,77,0.5389221556886228
+Mark Gerzon,author,center,somewhat disagree,122,55,67,0.45081967213114754
+Mark Hertsgaard,author,lean left,,14,7,7,0.5
+Mark Mix,author,right,agree,188,113,75,0.601063829787234
+Mark Morford,author,left,agree,91,56,35,0.6153846153846154
+Marshall Ramsey (cartoonist),author,center,somewhat agree,148,80,68,0.5405405405405406
+Martin Luther King III,author,lean left,somewhat agree,49,25,24,0.5102040816326531
+Mary O'Grady,author,right,somewhat disagree,159,67,92,0.42138364779874216
+Masih Alinejad,author,center,somewhat agree,64,36,28,0.5625
+Matt Bors (cartoonist),author,left,strongly agree,91,66,25,0.7252747252747253
+Matt Byrne,author,center,,2,1,1,0.5
+Matt Davies (cartoonist),author,left,agree,166,110,56,0.6626506024096386
+Matt Drudge,author,right,somewhat agree,758,387,371,0.5105540897097626
+Matt Towery,author,lean right,somewhat agree,129,71,58,0.5503875968992248
+Matt Welch,author,lean right,disagree,276,104,172,0.37681159420289856
+Matt Wuerker (cartoonist),author,left,somewhat agree,158,93,65,0.5886075949367089
+Matthew Walther,author,lean right,absolutely agree,115,94,21,0.8173913043478261
+Maureen Dowd,author,center,strongly disagree,782,203,579,0.2595907928388747
+Max Karlin,author,lean right,somewhat agree,14,8,6,0.5714285714285714
+Micaela Ricaforte,author,center,strongly disagree,12,4,8,0.3333333333333333
+Michael Barone,author,lean right,somewhat agree,277,156,121,0.5631768953068592
+Michael Brendan Dougherty,author,lean right,somewhat disagree,272,131,141,0.48161764705882354
+Michael Gerson,author,lean right,somewhat agree,305,169,136,0.5540983606557377
+Michael Goodwin,author,right,absolutely agree,359,277,82,0.7715877437325905
+Michael Graham,author,right,somewhat disagree,101,45,56,0.44554455445544555
+Michael Kinsley,author,left,somewhat agree,218,129,89,0.591743119266055
+Michael Medved,author,right,somewhat disagree,351,149,202,0.42450142450142453
+Michael Ramirez (cartoonist),author,right,somewhat disagree,228,111,117,0.4868421052631579
+Michael Strong,author,lean right,somewhat disagree,14,6,8,0.42857142857142855
+Michael Tauberg,author,center,somewhat agree,7,4,3,0.5714285714285714
+Michelle Alexander,author,lean left,somewhat agree,187,96,91,0.5133689839572193
+Michelle Goldberg,author,left,somewhat agree,193,101,92,0.5233160621761658
+Michelle Malkin,author,right,strongly agree,709,480,229,0.6770098730606487
+Mike Huckabee,author,lean right,somewhat disagree,141,67,74,0.475177304964539
+Mike Lester (cartoonist),author,right,somewhat agree,72,42,30,0.5833333333333334
+Mike Luckovich (cartoonist),author,left,somewhat agree,253,135,118,0.5335968379446641
+Mike Pence,author,right,absolutely agree,307,237,70,0.7719869706840391
+Mike Thompson (cartoonist),author,center,somewhat disagree,158,70,88,0.4430379746835443
+Miranda Devine,author,right,strongly agree,26,19,7,0.7307692307692307
+Morgan Jacobsen,author,center,somewhat disagree,189,83,106,0.43915343915343913
+Multiple Writers - Center,author,center,disagree,29,10,19,0.3448275862068966
+Multiple Writers - Lean Left,author,lean left,agree,8,5,3,0.625
+Multiple Writers - Lean Right,author,lean right,somewhat disagree,15,7,8,0.4666666666666667
+Multiple Writers - Left,author,left,absolutely agree,5,5,0,1.0
+Multiple Writers - Mixed,author,mixed,somewhat disagree,24,11,13,0.4583333333333333
+Multiple Writers - Right,author,right,strongly agree,11,8,3,0.7272727272727273
+Neal K. Katyal,author,lean left,somewhat agree,65,36,29,0.5538461538461539
+Neil J. Young,author,lean left,somewhat disagree,133,62,71,0.46616541353383456
+Neil Patel,author,right,strongly agree,7,5,2,0.7142857142857143
+Newt Gingrich,author,right,strongly agree,1011,732,279,0.7240356083086054
+Nicholas Kristof,author,left,somewhat agree,546,289,257,0.5293040293040293
+Nick Anderson (cartoonist),author,center,somewhat disagree,130,56,74,0.4307692307692308
+Noah Rothman,author,lean right,somewhat agree,112,64,48,0.5714285714285714
+Pat Buchanan,author,right,strongly agree,233,169,64,0.7253218884120172
+Pat Oliphant (cartoonist),author,center,somewhat disagree,147,71,76,0.48299319727891155
+Paul Brandus,author,center,somewhat disagree,7,3,4,0.42857142857142855
+Paul Krugman,author,left,agree,880,561,319,0.6375
+Paul Szep (cartoonist),author,center,,134,67,67,0.5
+Paul Volcker,author,center,somewhat agree,111,61,50,0.5495495495495496
+Pedro Silva,author,center,somewhat disagree,17,8,9,0.47058823529411764
+Peggy Noonan,author,right,disagree,889,342,547,0.3847019122609674
+Peter Roff,author,lean right,strongly agree,508,343,165,0.6751968503937008
+Peter Thiel,author,lean right,somewhat disagree,193,86,107,0.44559585492227977
+Phillip Bader,author,center,absolutely disagree,6,1,5,0.16666666666666666
+Piers Morgan,author,lean left,disagree,977,345,632,0.353121801432958
+Rachel Eckhardt,author,lean left,somewhat disagree,144,64,80,0.4444444444444444
+Rahm Emanuel,author,lean left,absolutely disagree,296,69,227,0.23310810810810811
+Ralph Benko,author,right,somewhat disagree,205,88,117,0.4292682926829268
+Ramesh Ponnuru,author,right,somewhat agree,287,163,124,0.5679442508710801
+Rand Paul,author,lean right,somewhat agree,997,534,463,0.5356068204613842
+Rem Reider,author,center,somewhat disagree,214,100,114,0.4672897196261682
+Rev. Jesse Jackson Sr.,author,left,absolutely agree,663,536,127,0.808446455505279
+Rich Lowry,author,right,somewhat agree,556,292,264,0.5251798561151079
+Rich Tafel,author,center,somewhat agree,171,90,81,0.5263157894736842
+Rich Zeoli,author,lean right,somewhat agree,189,106,83,0.5608465608465608
+Richard M. Cohen,author,lean left,somewhat agree,90,50,40,0.5555555555555556
+Rick Snyder,author,lean right,somewhat disagree,16,7,9,0.4375
+Rick Ungar,author,lean left,somewhat agree,322,169,153,0.5248447204968945
+Rick Wytmar,author,lean left,,16,8,8,0.5
+Right Guest Commentaries,author,right,somewhat agree,157,90,67,0.5732484076433121
+Rob Rogers (cartoonist),author,left,absolutely agree,117,93,24,0.7948717948717948
+Robert Ariail (cartoonist),author,center,somewhat disagree,164,77,87,0.4695121951219512
+Robert Samuelson,author,center,somewhat disagree,285,133,152,0.4666666666666667
+Robert Verbruggen,author,lean right,somewhat disagree,9,4,5,0.4444444444444444
+Rod Blagojevich,author,center,absolutely disagree,153,26,127,0.16993464052287582
+Rolf Hendriks,author,center,somewhat agree,19,10,9,0.5263157894736842
+Ron Suskind,author,center,strongly agree,4,3,1,0.75
+Ross Douthat,author,lean right,agree,351,215,136,0.6125356125356125
+Russell Brandom,author,center,absolutely disagree,17,4,13,0.23529411764705882
+Ruth Marcus,author,lean left,somewhat disagree,390,194,196,0.49743589743589745
+Ryan Cooper,author,left,absolutely agree,638,515,123,0.8072100313479624
+Ryan Cooper,author,left,somewhat agree,197,117,80,0.5939086294416244
+S.E. Cupp,author,lean right,disagree,215,80,135,0.37209302325581395
+Saagar Enjeti,author,center,somewhat agree,258,130,128,0.5038759689922481
+Sally Pipes,author,right,strongly agree,428,292,136,0.6822429906542056
+Sam Harris,author,center,somewhat agree,75,45,30,0.6
+Samantha Shireman,author,lean left,,6,3,3,0.5
+SBG,author,center,somewhat agree,141,72,69,0.5106382978723404
+Scott Adams,author,center,somewhat disagree,167,81,86,0.48502994011976047
+Scott Jennings,author,lean right,somewhat agree,105,60,45,0.5714285714285714
+Scott Stantis (cartoonist),author,right,somewhat disagree,144,62,82,0.4305555555555556
+Shannon Mannon,author,lean left,somewhat disagree,11,5,6,0.45454545454545453
+Signe Wilkinson (cartoonist),author,left,somewhat agree,82,49,33,0.5975609756097561
+Small World (cartoonist),author,left,somewhat disagree,71,35,36,0.49295774647887325
+Spread Great Ideas,author,center,,0,0,0,
+Stacey Abrams,author,lean left,strongly disagree,279,76,203,0.2724014336917563
+Steve Benson (cartoonist),author,left,somewhat agree,164,86,78,0.524390243902439
+Steve Breen (cartoonist),author,center,somewhat agree,137,77,60,0.5620437956204379
+Steve Forbes,author,lean right,somewhat agree,152,91,61,0.5986842105263158
+Steve Kelley (cartoonist),author,right,somewhat disagree,83,41,42,0.4939759036144578
+Steve Sack (cartoonist),author,left,agree,110,71,39,0.6454545454545455
+Steven Petrow,author,center,absolutely disagree,13,3,10,0.23076923076923078
+Stuart Carlson (cartoonist),author,left,somewhat disagree,109,50,59,0.45871559633027525
+Sukhayl Niyazov,author,center,somewhat disagree,15,7,8,0.4666666666666667
+Tara Parekh,author,lean left,,8,4,4,0.5
+Ted Rall (cartoonist),author,left,somewhat agree,117,67,50,0.5726495726495726
+Thomas Frank,author,lean left,somewhat disagree,325,155,170,0.47692307692307695
+Thomas L. Friedman,author,lean left,disagree,135,54,81,0.4
+Thomas Sowell,author,lean right,agree,704,424,280,0.6022727272727273
+Tim Groseclose,author,lean right,agree,167,101,66,0.6047904191616766
+Tim Pool,author,center,somewhat disagree,2452,1127,1325,0.4596247960848287
+Tom Cole,author,right,somewhat agree,285,165,120,0.5789473684210527
+Tom Nichols,author,lean right,,124,62,62,0.5
+Tom Toles (cartoonist),author,left,somewhat agree,177,93,84,0.5254237288135594
+Tony Auth (cartoonist),author,left,somewhat agree,119,66,53,0.5546218487394958
+Tonya Russell,author,lean left,somewhat agree,22,12,10,0.5454545454545454
+Tucker Carlson,author,right,strongly agree,933,669,264,0.7170418006430869
+Victor Hanson,author,lean right,somewhat disagree,448,221,227,0.49330357142857145
+Walt Handelsman (cartoonist),author,left,somewhat disagree,203,97,106,0.47783251231527096
+Willam A. Galston,author,lean left,somewhat agree,245,128,117,0.5224489795918368
+William Bennett,author,right,somewhat disagree,362,157,205,0.43370165745856354
+William McGurn,author,right,agree,167,108,59,0.6467065868263473
+AARP,thinktankpolicy,center,disagree,5372,1799,3573,0.33488458674609084
+Accuracy in Media,thinktankpolicy,right,agree,1538,940,598,0.611183355006502
+ACLU,thinktankpolicy,lean left,somewhat disagree,4719,1899,2820,0.4024157660521297
+American Conservative Union,thinktankpolicy,right,strongly agree,1407,945,462,0.6716417910447762
+American Enterprise Institute,thinktankpolicy,lean right,agree,2689,1735,954,0.6452212718482707
+Americans for Democratic Action,thinktankpolicy,left,strongly agree,1085,770,315,0.7096774193548387
+Americans for Tax Reform,thinktankpolicy,right,somewhat agree,1233,731,502,0.5928629359286294
+Amnesty International,thinktankpolicy,lean left,disagree,1317,459,858,0.34851936218678814
+Association for Psychological Science,thinktankpolicy,center,somewhat agree,1480,793,687,0.5358108108108108
+Atlas Network,thinktankpolicy,right,agree,663,400,263,0.6033182503770739
+AtlasOne,thinktankpolicy,lean right,somewhat disagree,599,283,316,0.4724540901502504
+Better Government Association,thinktankpolicy,center,somewhat disagree,104,46,58,0.4423076923076923
+Bridge Alliance,thinktankpolicy,mixed,somewhat agree,41,23,18,0.5609756097560976
+Brookings Institution,thinktankpolicy,center,somewhat agree,4352,2569,1783,0.5903033088235294
+Capital Research Center,thinktankpolicy,lean right,agree,80,51,29,0.6375
+Carnegie Endowment for International Peace,thinktankpolicy,center,somewhat agree,865,466,399,0.5387283236994219
+Cato Institute,thinktankpolicy,lean right,somewhat disagree,2759,1134,1625,0.4110184849583182
+Center For American Progress,thinktankpolicy,lean left,somewhat disagree,2665,1078,1587,0.4045028142589118
+Center for Media & Democracy PR Watch,thinktankpolicy,lean left,somewhat disagree,628,279,349,0.4442675159235669
+Center for Strategic and Budgetary Assessments,thinktankpolicy,lean right,somewhat disagree,870,395,475,0.4540229885057471
+Center on Budget and Policy Priorities,thinktankpolicy,left,somewhat agree,1470,787,683,0.535374149659864
+Children’s Defense Fund,thinktankpolicy,left,somewhat agree,641,330,311,0.514820592823713
+CivilPolitics.org,thinktankpolicy,center,somewhat agree,529,271,258,0.5122873345935728
+Coffee Party USA,thinktankpolicy,center,somewhat agree,128,69,59,0.5390625
+Committee to Protect Journalists,thinktankpolicy,center,somewhat agree,52,27,25,0.5192307692307693
+Common Ground Committee,thinktankpolicy,center,strongly agree,38,28,10,0.7368421052631579
+Council on Foreign Relations,thinktankpolicy,left,somewhat disagree,484,204,280,0.4214876033057851
+Economic Policy Institute,thinktankpolicy,left,somewhat agree,515,266,249,0.516504854368932
+EdVotes.org,thinktankpolicy,left,agree,211,139,72,0.6587677725118484
+Environmental Defense Fund,thinktankpolicy,lean left,somewhat agree,655,355,300,0.5419847328244275
+Family Research Council,thinktankpolicy,lean right,disagree,1004,384,620,0.38247011952191234
+Federation of American Scientists,thinktankpolicy,lean left,somewhat disagree,647,287,360,0.4435857805255023
+FEE.org,thinktankpolicy,lean right,absolutely agree,529,398,131,0.7523629489603024
+Food Democracy Now,thinktankpolicy,lean left,somewhat disagree,323,154,169,0.47678018575851394
+Freakonomics,thinktankpolicy,center,agree,690,432,258,0.6260869565217392
+Freedom House,thinktankpolicy,lean right,somewhat disagree,325,135,190,0.4153846153846154
+Gell,thinktankpolicy,mixed,agree,166,104,62,0.6265060240963856
+GOP.gov,thinktankpolicy,right,strongly agree,848,566,282,0.6674528301886793
+Healthcare.gov,thinktankpolicy,lean left,disagree,841,285,556,0.3388822829964328
+Human Rights Campaign,thinktankpolicy,left,absolutely agree,76,60,16,0.7894736842105263
+Independent Institute,thinktankpolicy,lean right,somewhat disagree,608,290,318,0.4769736842105263
+Manhattan Institute,thinktankpolicy,lean right,somewhat disagree,568,248,320,0.43661971830985913
+Mercatus Center,thinktankpolicy,lean right,somewhat agree,29,15,14,0.5172413793103449
+Mises Institute,thinktankpolicy,lean right,agree,71,47,24,0.6619718309859155
+NAACP,thinktankpolicy,lean left,disagree,1043,359,684,0.34419942473633747
+National Committee to Preserve Social Security and Medicare,thinktankpolicy,left,somewhat agree,526,278,248,0.5285171102661597
+National Interest,thinktankpolicy,center,disagree,583,230,353,0.39451114922813035
+New Economy Working Group,thinktankpolicy,lean left,somewhat agree,198,113,85,0.5707070707070707
+No Labels,thinktankpolicy,center,somewhat agree,258,138,120,0.5348837209302325
+OpenSecrets.org,thinktankpolicy,center,somewhat agree,1029,596,433,0.5792031098153547
+Pacific Research Institute,thinktankpolicy,right,somewhat disagree,397,197,200,0.49622166246851385
+People for the American Way,thinktankpolicy,left,agree,449,280,169,0.623608017817372
+Physicians for a National Health Program,thinktankpolicy,left,somewhat agree,357,213,144,0.5966386554621849
+Prager University,thinktankpolicy,right,absolutely agree,4015,3252,763,0.8099626400996264
+RAND Corporation,thinktankpolicy,lean left,somewhat disagree,1159,484,675,0.4176013805004314
+Reason Foundation,thinktankpolicy,lean right,somewhat disagree,419,195,224,0.46539379474940334
+redefinED,thinktankpolicy,center,agree,243,155,88,0.6378600823045267
+The Catalyst,thinktankpolicy,lean right,somewhat disagree,19,9,10,0.47368421052631576
+The Center for American Progress,thinktankpolicy,lean left,strongly disagree,40,12,28,0.3
+The Heritage Foundation,thinktankpolicy,lean right,agree,4425,2830,1595,0.63954802259887
+The Reporters Committee for Freedom of the Press,thinktankpolicy,center,somewhat agree,30,18,12,0.6
+The Sierra Club,thinktankpolicy,lean left,somewhat disagree,402,163,239,0.4054726368159204
+Urban Institute,thinktankpolicy,lean left,somewhat agree,993,552,441,0.5558912386706949
+Vote Smart,thinktankpolicy,center,somewhat disagree,467,229,238,0.49036402569593146
+Whitehouse.gov,thinktankpolicy,lean right,somewhat disagree,1159,517,642,0.4460742018981881
+World Wildlife,thinktankpolicy,center,somewhat agree,24,13,11,0.5416666666666666
+American Psychological Association,reference,center,somewhat disagree,306,127,179,0.4150326797385621
+Ammo.com,reference,right,somewhat agree,138,77,61,0.5579710144927537
+Ballotpedia,reference,center,somewhat agree,1054,626,428,0.5939278937381404
+Chicago Booth Initiative on Global Markets,reference,mixed,somewhat agree,476,240,236,0.5042016806722689
+Countable,reference,center,somewhat disagree,233,116,117,0.4978540772532189
+DetectFakeNews.com,reference,center,disagree,42,15,27,0.35714285714285715
+Face the Facts USA,reference,center,disagree,677,268,409,0.39586410635155095
+First Draft News,reference,center,,38,19,19,0.5
+Gallup,reference,center,somewhat agree,1197,641,556,0.5355054302422724
+Human Rights Watch,reference,center,disagree,120,48,72,0.4
+Just Facts,reference,center,somewhat disagree,156,67,89,0.42948717948717946
+National Constitution Center,reference,center,somewhat agree,172,96,76,0.5581395348837209
+News Literacy Project,reference,center,somewhat agree,32,18,14,0.5625
+Pew Research Center,reference,center,agree,3190,1928,1262,0.6043887147335423
+Quinnipiac University,reference,center,disagree,682,248,434,0.36363636363636365
+RedBlueDictionary.org,reference,mixed,somewhat agree,288,159,129,0.5520833333333334
+Stimson Center,reference,center,somewhat agree,9,5,4,0.5555555555555556
+Sunlight Foundation,reference,center,somewhat disagree,297,135,162,0.45454545454545453
+The Thread,reference,mixed,somewhat agree,75,38,37,0.5066666666666667
+United States Courts,reference,center,somewhat disagree,521,217,304,0.4165067178502879
+Wikipedia,reference,center,somewhat disagree,2412,1175,1237,0.48714759535655056
+ABC News (Online),news,lean left,agree,47322,31116,16206,0.6575377202992265
+Above The Law,news,lean left,strongly agree,292,209,83,0.7157534246575342
+Abridge News,news,mixed,agree,550,346,204,0.6290909090909091
+AJ+,news,left,strongly agree,624,468,156,0.75
+Al Jazeera,news,lean left,disagree,11762,4622,7140,0.39296038088760415
+AllSides,news,mixed,strongly agree,5629,4037,1592,0.7171788950079944
+AllSides Community,news,mixed,agree,4005,2551,1454,0.6369538077403246
+AlterNet,news,left,absolutely agree,13857,11474,2383,0.8280291549397416
+American Greatness,news,right,strongly agree,552,407,145,0.7373188405797102
+American Thinker,news,right,agree,2824,1840,984,0.6515580736543909
+AP Politics & Fact Check,news,lean left,somewhat disagree,6396,2877,3519,0.449812382739212
+Aquinas College Saint,news,left,agree,1586,966,620,0.6090794451450189
+Arkansas Democrat-Gazette,news,left,somewhat agree,1806,1030,776,0.5703211517165006
+Associated Press,news,center,somewhat agree,40323,23175,17148,0.5747340227661633
+Atlanta Black Star,news,lean left,disagree,139,48,91,0.34532374100719426
+Atlanta Journal-Constitution,news,lean left,somewhat agree,1970,1035,935,0.5253807106598984
+Austin American-Statesman,news,lean left,somewhat agree,1560,866,694,0.5551282051282052
+Axios,news,center,somewhat disagree,9019,4412,4607,0.48918948885685776
+AZ Central,news,center,disagree,494,192,302,0.38866396761133604
+Babylon Bee (Humor),news,lean right,absolutely agree,549,416,133,0.7577413479052824
+Barnstable Patriot,news,center,somewhat disagree,1218,563,655,0.46223316912972084
+BBC News,news,center,somewhat agree,48173,25965,22208,0.5389948726465033
+Bearing Drift,news,right,somewhat agree,1272,686,586,0.539308176100629
+BET,news,lean left,somewhat disagree,562,234,328,0.41637010676156583
+Biblical Gender Roles,news,right,absolutely agree,130,105,25,0.8076923076923077
+Biblical Sexology,news,right,strongly agree,100,70,30,0.7
+Bizpac Review,news,right,strongly agree,96,65,31,0.6770833333333334
+Black Enterprise,news,lean left,disagree,136,53,83,0.3897058823529412
+Block Club Chicago,news,left,strongly agree,75,51,24,0.68
+Bloomberg,news,lean left,somewhat disagree,33529,14000,19529,0.41754898744370544
+Blue Virginia,news,left,somewhat agree,1378,807,571,0.5856313497822931
+Boing Boing,news,left,agree,1539,937,602,0.6088369070825211
+Boston Herald,news,lean right,somewhat agree,972,530,442,0.5452674897119342
+Boston Herald Editorial,news,lean right,somewhat agree,564,285,279,0.5053191489361702
+Boston Review,news,lean left,somewhat agree,92,49,43,0.532608695652174
+Bowling Green Daily News,news,lean left,somewhat disagree,1295,630,665,0.4864864864864865
+Braver Angels,news,mixed,somewhat agree,218,125,93,0.573394495412844
+Breitbart News,news,right,absolutely agree,45914,35369,10545,0.770331489306094
+Bridgemi.com,news,center,somewhat agree,243,137,106,0.5637860082304527
+Brown Girl Magazine,news,left,absolutely agree,124,97,27,0.782258064516129
+Business Insider,news,center,somewhat disagree,7590,3083,4507,0.40619235836627143
+Bustle,news,lean left,somewhat agree,1688,856,832,0.5071090047393365
+BuzzFeed News,news,left,strongly agree,29788,21061,8727,0.7070296763797502
+C-SPAN,news,center,absolutely agree,5102,3873,1229,0.7591140729125833
+CalMatters,news,center,somewhat agree,1395,758,637,0.5433691756272402
+CalWatchdog,news,center,somewhat disagree,1188,570,618,0.4797979797979798
+Care2,news,left,somewhat disagree,1292,630,662,0.48761609907120745
+CBN,news,right,agree,10399,6890,3509,0.6625637080488509
+CBS News,news,lean left,agree,27714,16820,10894,0.6069134733347766
+Center - Major Media Sources,news,center,somewhat agree,1282,687,595,0.5358814352574103
+Center for Public Integrity,news,lean left,somewhat disagree,1566,719,847,0.4591315453384419
+Centre View,news,lean left,somewhat disagree,1293,615,678,0.4756380510440835
+Check Your Fact,news,lean right,somewhat disagree,279,118,161,0.4229390681003584
+Chicago Crusader,news,left,absolutely agree,66,52,14,0.7878787878787878
+Chicago Defender,news,left,strongly agree,109,80,29,0.7339449541284404
+Chicago Sun-Times,news,lean left,somewhat disagree,1714,849,865,0.4953325554259043
+Chicago Tribune,news,center,disagree,5805,2045,3760,0.35228251507321273
+Christian Science Monitor,news,center,somewhat disagree,32220,14338,17882,0.44500310366232154
+Christianity Today,news,lean right,disagree,431,171,260,0.39675174013921116
+City Journal,news,right,somewhat agree,830,460,370,0.5542168674698795
+CNBC,news,center,strongly disagree,8557,2660,5897,0.3108566086245179
+CNET,news,center,somewhat agree,800,435,365,0.54375
+CNN (Online News),news,left,somewhat disagree,89448,44145,45303,0.4935269653877113
+CNN (Opinion),news,left,absolutely agree,34254,27922,6332,0.8151456764173527
+CNSNews.com,news,right,somewhat agree,1724,957,767,0.5551044083526682
+Columbia Journalism Review,news,center,disagree,700,242,458,0.3457142857142857
+Columbia Missourian,news,center,agree,35,22,13,0.6285714285714286
+Commentary Magazine,news,right,somewhat agree,525,264,261,0.5028571428571429
+Common Dreams,news,left,absolutely agree,90,70,20,0.7777777777777778
+Concord Monitor,news,center,somewhat disagree,105,51,54,0.4857142857142857
+Conservative HQ,news,right,strongly agree,1330,910,420,0.6842105263157895
+Cook Report,news,center,agree,1575,950,625,0.6031746031746031
+Counter Currents,news,lean left,somewhat agree,658,376,282,0.5714285714285714
+Counterpointing,news,mixed,somewhat agree,786,407,379,0.5178117048346056
+CrowdPAC,news,center,somewhat disagree,912,444,468,0.4868421052631579
+CU Independent,news,center,somewhat disagree,835,381,454,0.4562874251497006
+Current Affairs,news,left,strongly agree,617,427,190,0.6920583468395461
+Daily Beast,news,left,strongly agree,22616,16946,5670,0.7492925362575168
+Daily Breeze,news,center,strongly disagree,47,15,32,0.3191489361702128
+Daily Cardinal,news,center,somewhat disagree,933,448,485,0.48017148981779206
+Daily Chela,news,left,somewhat agree,65,35,30,0.5384615384615384
+Daily Citizen,news,right,strongly agree,87,59,28,0.6781609195402298
+Daily Kos,news,left,strongly agree,7711,5635,2076,0.7307742186486837
+Daily Mail,news,right,agree,15272,9790,5482,0.641042430591933
+Daily Northwestern,news,lean left,somewhat disagree,824,402,422,0.4878640776699029
+Daily Press,news,lean right,somewhat disagree,900,399,501,0.44333333333333336
+Daily Progress,news,center,somewhat disagree,916,449,467,0.490174672489083
+Daily Targum,news,lean left,somewhat disagree,708,286,422,0.403954802259887
+Defense One,news,center,somewhat agree,622,318,304,0.5112540192926045
+Democracy Now,news,left,absolutely agree,14479,11758,2721,0.8120726569514469
+Des Moines Register,news,center,somewhat disagree,348,146,202,0.41954022988505746
+Deseret News,news,lean right,disagree,3059,1226,1833,0.4007845701209546
+Desiring God,news,lean right,somewhat agree,35,18,17,0.5142857142857142
+Detroit Free Press,news,lean left,somewhat disagree,560,254,306,0.45357142857142857
+Detroit News,news,center,disagree,386,142,244,0.36787564766839376
+Diplomatic Courier,news,center,somewhat agree,688,378,310,0.5494186046511628
+Drudge Report,news,lean right,somewhat agree,4225,2270,1955,0.5372781065088758
+Duke Chronicle,news,center,somewhat agree,868,435,433,0.5011520737327189
+East Bay Times,news,lean left,agree,159,103,56,0.6477987421383647
+Elle Magazine,news,lean left,agree,50,33,17,0.66
+Erraticus,news,center,strongly agree,48,34,14,0.7083333333333334
+Esquire,news,left,strongly agree,1776,1189,587,0.6694819819819819
+Estes Park Trail Gazette,news,center,somewhat disagree,669,298,371,0.445440956651719
+Eurek Alert,news,center,somewhat disagree,784,369,415,0.47066326530612246
+Fact Checker Blog,news,center,somewhat agree,1619,839,780,0.5182211241507103
+FactCheck.org,news,center,somewhat agree,13941,7460,6481,0.5351122588049638
+FAIR,news,lean left,somewhat disagree,1172,580,592,0.4948805460750853
+Falls Church News - Press,news,left,somewhat disagree,927,445,482,0.48004314994606256
+Financial Times,news,center,agree,1338,808,530,0.6038863976083707
+Fiscal Times,news,lean right,somewhat agree,1374,735,639,0.5349344978165939
+FiveThirtyEight,news,center,somewhat agree,7550,4405,3145,0.5834437086092715
+Forbes,news,center,agree,18565,11827,6738,0.6370589819552922
+Foreign Affairs,news,center,agree,1647,1059,588,0.6429872495446266
+Foreign Policy,news,center,somewhat disagree,532,253,279,0.4755639097744361
+Fortune,news,center,disagree,402,145,257,0.36069651741293535
+Fox News (Online News),news,lean right,somewhat disagree,81599,37287,44312,0.4569541293398203
+Fox News (Opinion),news,right,absolutely agree,28853,23373,5480,0.8100717429730011
+Fox News Latino,news,right,strongly agree,3617,2465,1152,0.6815040088471108
+FrontPage Magazine,news,right,somewhat agree,1047,607,440,0.5797516714422158
+Gizmodo,news,lean left,somewhat agree,361,202,159,0.5595567867036011
+GLAAD,news,lean left,absolutely disagree,185,44,141,0.23783783783783785
+Google News,news,lean left,somewhat agree,1404,811,593,0.5776353276353277
+GQ.com,news,lean left,somewhat disagree,315,142,173,0.4507936507936508
+Grist,news,lean left,somewhat disagree,1058,506,552,0.4782608695652174
+Hampton Roads Messanger,news,center,somewhat disagree,826,408,418,0.4939467312348668
+Harvard Business School,news,lean left,somewhat disagree,1708,770,938,0.45081967213114754
+Heavy.com,news,center,somewhat disagree,267,128,139,0.4794007490636704
+Herald Democrat,news,left,somewhat agree,912,505,407,0.5537280701754386
+High Times,news,lean left,somewhat agree,57,32,25,0.5614035087719298
+Hip Latina,news,left,agree,40,26,14,0.65
+Honolulu Civil Beat,news,center,somewhat disagree,884,370,514,0.41855203619909503
+HotAir,news,lean right,somewhat agree,2016,1063,953,0.527281746031746
+Houston Chronicle,news,center,disagree,287,111,176,0.3867595818815331
+How Do We Fix It?,news,center,somewhat agree,1291,661,630,0.512006196746708
+HuffPost,news,left,somewhat agree,54556,32727,21829,0.5998790233888115
+Idaho Statesman,news,center,somewhat disagree,211,95,116,0.45023696682464454
+Inacow,news,right,somewhat agree,722,412,310,0.5706371191135734
+Independent Journal Review,news,center,somewhat agree,2466,1280,1186,0.519059205190592
+Indiana Daily Student,news,center,somewhat disagree,712,310,402,0.4353932584269663
+Indy Online,news,center,somewhat disagree,650,311,339,0.47846153846153844
+Indy Week,news,lean left,somewhat disagree,699,333,366,0.47639484978540775
+IndyStar,news,center,somewhat disagree,45,19,26,0.4222222222222222
+InfoWars,news,right,absolutely agree,6130,5025,1105,0.8197389885807504
+Inland Valley Daily Bulletin,news,center,,32,16,16,0.5
+Inside Philanthropy,news,center,somewhat disagree,685,322,363,0.47007299270072994
+Intellectual Conservative,news,lean right,somewhat disagree,820,385,435,0.4695121951219512
+International Business Times,news,center,somewhat agree,1907,1067,840,0.5595175668589407
+Investor's Business Daily,news,lean right,somewhat agree,2242,1238,1004,0.552185548617306
+IVN,news,center,somewhat agree,937,473,464,0.5048025613660619
+Jacobin,news,left,absolutely agree,1063,854,209,0.8033866415804327
+Jefferson Public Radio,news,center,agree,26,16,10,0.6153846153846154
+Jezebel,news,left,strongly agree,395,289,106,0.7316455696202532
+Journalist's Resource,news,center,somewhat disagree,644,304,340,0.4720496894409938
+JSTOR Daily,news,center,somewhat agree,50,29,21,0.58
+Jubilee Media,news,center,somewhat disagree,502,243,259,0.48406374501992033
+Judicial Watch,news,lean right,somewhat disagree,2665,1292,1373,0.4848030018761726
+Just The News,news,center,strongly disagree,731,194,537,0.265389876880985
+KALW.org,news,center,somewhat disagree,40,18,22,0.45
+KATU,news,center,somewhat disagree,195,86,109,0.441025641025641
+Kenosha News,news,center,strongly disagree,33,10,23,0.30303030303030304
+KQED,news,center,somewhat agree,1033,556,477,0.5382381413359149
+KSL,news,right,somewhat agree,1800,963,837,0.535
+KWCH,news,center,somewhat agree,25,15,10,0.6
+Las Vegas Sun,news,lean left,somewhat disagree,675,337,338,0.49925925925925924
+Latino Rebels,news,left,somewhat agree,47,28,19,0.5957446808510638
+Law & Crime,news,center,somewhat disagree,40,19,21,0.475
+Leafly,news,left,agree,28,17,11,0.6071428571428571
+Leesburg Today,news,lean right,somewhat agree,490,254,236,0.5183673469387755
+Left - Major Media Sources,news,left,somewhat agree,1075,608,467,0.5655813953488372
+LGBTQ Nation,news,lean left,absolutely disagree,231,56,175,0.24242424242424243
+Lifehacker,news,center,somewhat agree,788,400,388,0.5076142131979695
+Listen First Project,news,mixed,somewhat agree,299,163,136,0.5451505016722408
+Live Action News,news,lean right,somewhat agree,586,344,242,0.5870307167235495
+Live Science,news,center,somewhat agree,88,49,39,0.5568181818181818
+Long Beach Press-Telegram,news,center,strongly disagree,33,10,23,0.30303030303030304
+Longmont Times-Call,news,lean left,somewhat agree,414,222,192,0.5362318840579711
+Los Angeles Daily News,news,center,absolutely disagree,66,14,52,0.21212121212121213
+Los Angeles Times,news,lean left,somewhat agree,8155,4706,3449,0.5770692826486817
+Louisville Courier-Journal,news,lean left,somewhat disagree,494,242,252,0.4898785425101215
+Making Sense,news,center,agree,33,20,13,0.6060606060606061
+Marijuana Moment,news,lean left,somewhat agree,45,26,19,0.5777777777777777
+MarketWatch,news,center,strongly disagree,1190,337,853,0.28319327731092436
+Mashable,news,left,strongly agree,802,562,240,0.7007481296758105
+McClatchyDC,news,center,somewhat disagree,247,105,142,0.4251012145748988
+Media Matters,news,left,agree,4601,2931,1670,0.6370354270810693
+Media Research Center,news,right,somewhat disagree,3083,1404,1679,0.45540058384690235
+Mediaite,news,lean left,somewhat agree,1673,844,829,0.5044829647340108
+Miami Herald,news,lean left,somewhat disagree,801,394,407,0.4918851435705368
+MichelleMalkin.com,news,right,strongly agree,958,639,319,0.6670146137787056
+Michigan Daily,news,lean left,somewhat agree,532,276,256,0.518796992481203
+Military Times,news,center,somewhat agree,189,95,94,0.5026455026455027
+Misinformation Review,news,center,somewhat disagree,35,17,18,0.4857142857142857
+Mismatch.org,news,mixed,somewhat disagree,239,116,123,0.48535564853556484
+MIT News,news,center,somewhat agree,517,281,236,0.5435203094777563
+Mitú,news,left,somewhat agree,35,20,15,0.5714285714285714
+Mother Jones,news,left,absolutely agree,15351,13382,1969,0.871734740407791
+MSNBC,news,left,absolutely agree,22698,17902,4796,0.7887038505595206
+MTV News Online,news,lean left,disagree,357,135,222,0.37815126050420167
+National Geographic,news,center,somewhat agree,133,78,55,0.5864661654135338
+National Journal,news,center,somewhat agree,1817,1033,784,0.5685195376995047
+National Review,news,right,strongly agree,23896,16937,6959,0.7087797120857047
+Nature.com,news,center,agree,150,97,53,0.6466666666666666
+NBC News (Online),news,lean left,somewhat disagree,21132,10517,10615,0.4976812417187204
+NBC Today Show,news,lean left,somewhat disagree,3100,1516,1584,0.4890322580645161
+New Discourses,news,center,agree,133,84,49,0.631578947368421
+New Hampshire Union Leader,news,center,somewhat disagree,118,54,64,0.4576271186440678
+New Republic,news,left,agree,2416,1592,824,0.6589403973509934
+New York Daily News,news,left,strongly agree,2008,1384,624,0.6892430278884463
+New York Magazine,news,left,strongly agree,3122,2178,944,0.6976297245355542
+New York Post (News),news,lean right,agree,18475,11887,6588,0.6434100135317997
+New York Post (Opinion),news,right,strongly agree,266,188,78,0.706766917293233
+New York Times (News),news,lean left,somewhat disagree,62216,26233,35983,0.4216439501092966
+New York Times (Opinion),news,left,absolutely agree,15282,11990,3292,0.7845831697421803
+NewsBusters,news,right,agree,790,511,279,0.6468354430379747
+Newsmax (News),news,lean right,somewhat disagree,19815,9400,10415,0.47438808983093617
+Newsmax - Opinion,news,right,strongly agree,479,352,127,0.7348643006263048
+NewsOne,news,left,strongly agree,309,222,87,0.7184466019417476
+Newsweek,news,center,somewhat disagree,6816,2943,3873,0.4317781690140845
+Newsy,news,center,strongly agree,357,254,103,0.711484593837535
+Newtrals,news,center,strongly agree,26,18,8,0.6923076923076923
+Nieman Lab,news,center,somewhat disagree,127,62,65,0.4881889763779528
+NMPolitics.net,news,center,somewhat disagree,510,224,286,0.4392156862745098
+NPR (Online News),news,center,somewhat agree,55241,29341,25900,0.5311453449430676
+NPR (Opinion),news,lean left,somewhat disagree,14748,6981,7767,0.4733523189585028
+One America News Network (OAN),news,right,agree,3414,2092,1322,0.6127709431751611
+Orange County Register,news,lean right,somewhat agree,652,361,291,0.553680981595092
+Our.News,news,center,somewhat agree,7,4,3,0.5714285714285714
+Outkick the Coverage,news,center,strongly disagree,24,6,18,0.25
+Pacific Standard,news,lean left,somewhat agree,821,432,389,0.5261875761266748
+Palm Springs Desert Sun,news,center,absolutely disagree,17,4,13,0.23529411764705882
+Pasadena Star-News,news,center,somewhat agree,26,15,11,0.5769230769230769
+Patch.com,news,center,strongly disagree,50,16,34,0.32
+PBS NewsHour,news,center,somewhat agree,5666,3280,2386,0.5788916343099189
+Peacock Panache,news,left,agree,326,210,116,0.6441717791411042
+Phys.org,news,center,agree,294,191,103,0.6496598639455783
+PinkNews,news,left,absolutely agree,93,75,18,0.8064516129032258
+Pittsburgh Post-Gazette,news,lean right,somewhat disagree,718,335,383,0.46657381615598886
+PJ Media,news,right,strongly agree,927,655,272,0.7065803667745415
+Politico,news,lean left,somewhat disagree,49922,21546,28376,0.43159328552541965
+PoliticusUSA,news,left,strongly agree,1468,1093,375,0.7445504087193461
+PolitiFact,news,lean left,somewhat agree,9293,5209,4084,0.5605294307543313
+Portland Press Herald,news,center,somewhat disagree,669,271,398,0.40508221225710017
+Poynter,news,center,strongly disagree,294,98,196,0.3333333333333333
+PRI (Public Radio International),news,center,agree,1283,778,505,0.6063912704598597
+Progressive Voices of Iowa,news,left,agree,414,258,156,0.6231884057971014
+Project Veritas,news,lean right,somewhat disagree,675,315,360,0.4666666666666667
+ProPublica,news,lean left,somewhat agree,2594,1547,1047,0.5963762528912876
+Psychology Today,news,center,,178,89,89,0.5
+PXW News,news,center,somewhat disagree,437,212,225,0.4851258581235698
+Quartz,news,center,somewhat disagree,1377,675,702,0.49019607843137253
+Quillette,news,lean right,disagree,1333,522,811,0.3915978994748687
+Rasmussen Reports,news,center,somewhat disagree,1512,619,893,0.4093915343915344
+Raw Story,news,left,strongly agree,1685,1170,515,0.6943620178041543
+RealClearPolitics,news,center,somewhat disagree,9339,4231,5108,0.4530463647071421
+Reason,news,lean right,agree,13605,8435,5170,0.6199926497611172
+Record Journal,news,center,somewhat disagree,339,163,176,0.4808259587020649
+Red Racing Horses,news,right,somewhat disagree,112,51,61,0.45535714285714285
+Red State,news,right,strongly agree,1130,827,303,0.731858407079646
+Redlands Daily Facts,news,center,disagree,17,6,11,0.35294117647058826
+Refinery29,news,left,agree,71,47,24,0.6619718309859155
+Reuters,news,center,agree,24330,15845,8485,0.6512535963830661
+Richmond Times Dispatch,news,lean right,somewhat agree,534,285,249,0.5337078651685393
+Right - Major Media Sources,news,right,somewhat agree,637,327,310,0.5133437990580848
+Right Side News,news,right,agree,757,503,254,0.6644649933949802
+Right Wing News,news,right,strongly agree,660,442,218,0.6696969696969697
+Roll Call,news,center,somewhat agree,432,227,205,0.5254629629629629
+RollingStone.com,news,left,absolutely agree,2287,1785,502,0.7804984696108439
+Salon,news,left,strongly agree,16665,11499,5166,0.69000900090009
+San Bernardino Sun,news,center,strongly agree,22,16,6,0.7272727272727273
+San Diego Union-Tribune,news,lean left,somewhat disagree,37,18,19,0.4864864864864865
+San Francisco Chronicle,news,left,strongly agree,1452,1056,396,0.7272727272727273
+San Gabriel Valley Tribune,news,center,somewhat agree,34,19,15,0.5588235294117647
+San Jose Mercury News,news,lean left,somewhat disagree,974,479,495,0.4917864476386037
+Science Daily,news,center,agree,895,555,340,0.6201117318435754
+Scientific American,news,lean left,agree,2372,1538,834,0.648397976391231
+SCOTUSblog,news,center,somewhat agree,32,19,13,0.59375
+Scriberr Media - News,news,center,agree,88,53,35,0.6022727272727273
+Scriberr Media - Opinion/Editorial,news,lean right,somewhat agree,24,13,11,0.5416666666666666
+SF Weekly,news,center,somewhat disagree,667,294,373,0.4407796101949025
+SFGate,news,lean left,somewhat disagree,1093,529,564,0.4839890210430009
+Sky-Hi Daily News,news,lean left,somewhat agree,341,173,168,0.5073313782991202
+Slate,news,left,strongly agree,11460,8211,3249,0.7164921465968587
+Smerconish,news,center,somewhat disagree,505,222,283,0.4396039603960396
+Smithsonian Magazine,news,center,agree,104,66,38,0.6346153846153846
+Snopes,news,center,strongly disagree,4925,1493,3432,0.30314720812182744
+Socialist Alternative,news,left,strongly agree,726,503,223,0.6928374655647382
+Socialist Project/The Bullet,news,left,strongly agree,642,443,199,0.6900311526479751
+South China Morning Post,news,center,strongly disagree,57,16,41,0.2807017543859649
+Spectator USA,news,right,agree,193,124,69,0.6424870466321243
+Spiked,news,lean right,somewhat agree,55,28,27,0.509090909090909
+Splinter,news,left,strongly agree,352,240,112,0.6818181818181818
+Spokesman Review,news,lean left,somewhat disagree,543,248,295,0.4567219152854512
+State Journal,news,lean left,somewhat disagree,493,205,288,0.4158215010141988
+StoryCorps,news,mixed,somewhat agree,187,102,85,0.5454545454545454
+Students For Life,news,lean right,somewhat disagree,39,17,22,0.4358974358974359
+Subverse,news,center,agree,191,122,69,0.6387434554973822
+Suspend Belief Podcast,news,mixed,somewhat disagree,368,170,198,0.46195652173913043
+Tallahassee Democrat,news,center,somewhat disagree,574,279,295,0.48606271777003485
+Tech Xplore,news,center,,24,12,12,0.5
+TechCrunch,news,center,somewhat agree,806,478,328,0.5930521091811415
+Teen Vogue,news,lean left,disagree,1003,397,606,0.39581256231306083
+The Advocate,news,lean left,disagree,48,18,30,0.375
+The Advocate-Messenger,news,lean left,somewhat disagree,462,206,256,0.4458874458874459
+The American Conservative,news,lean right,somewhat disagree,604,297,307,0.4917218543046358
+The American Mind,news,lean right,somewhat agree,59,30,29,0.5084745762711864
+The American Spectator,news,right,strongly agree,15087,11210,3877,0.7430237953204746
+The Appeal,news,center,somewhat agree,172,96,76,0.5581395348837209
+The Atlantic,news,lean left,agree,19693,12910,6783,0.6555628903671356
+The Bellows,news,center,strongly disagree,9,3,6,0.3333333333333333
+The Boston Globe,news,lean left,somewhat agree,2958,1691,1267,0.5716700473292765
+The Bulwark,news,lean right,somewhat agree,90,52,38,0.5777777777777777
+The Cadiz Record,news,lean left,somewhat disagree,390,193,197,0.4948717948717949
+The Canyon County Zephyr,news,left,somewhat agree,340,187,153,0.55
+The Center Square - Michigan,news,center,disagree,204,75,129,0.36764705882352944
+The Christian Post,news,lean right,somewhat agree,25,14,11,0.56
+The College Fix,news,right,somewhat agree,415,237,178,0.5710843373493976
+The Colorado Sun,news,lean left,somewhat agree,42,23,19,0.5476190476190477
+The Commercial Appeal,news,lean left,somewhat disagree,417,179,238,0.4292565947242206
+The Courier-Journal,news,lean left,somewhat disagree,526,214,312,0.4068441064638783
+The Daily Caller,news,right,strongly agree,12519,8917,3602,0.7122773384455627
+The Daily Dot,news,lean left,somewhat agree,211,112,99,0.5308056872037915
+The Daily Signal,news,right,strongly agree,675,483,192,0.7155555555555555
+The Daily Wire,news,right,strongly agree,11886,8722,3164,0.7338044758539458
+The Dallas Morning News,news,center,somewhat agree,413,215,198,0.5205811138014528
+The Delaware County Daily Times,news,lean left,somewhat disagree,463,214,249,0.46220302375809935
+The Dispatch,news,lean right,agree,251,161,90,0.6414342629482072
+The Economist,news,lean left,disagree,13508,4857,8651,0.35956470239857863
+The Epoch Times,news,lean right,strongly agree,13613,9608,4005,0.7057959303606847
+The Federalist,news,right,absolutely agree,10214,7806,2408,0.7642451537105933
+The Flip Side,news,mixed,somewhat agree,689,399,290,0.579100145137881
+The Fulcrum,news,center,somewhat agree,272,139,133,0.5110294117647058
+The Gateway Pundit,news,right,agree,1394,905,489,0.6492109038737446
+The Globe and Mail,news,center,somewhat disagree,232,108,124,0.46551724137931033
+The Guardian,news,lean left,agree,19059,11971,7088,0.6281022089301642
+The Hill,news,center,somewhat disagree,32800,14176,18624,0.4321951219512195
+The Hollywood Reporter,news,lean left,somewhat agree,56,29,27,0.5178571428571429
+The Imaginative Conservative,news,right,somewhat agree,138,82,56,0.5942028985507246
+The Independent,news,lean left,somewhat agree,768,444,324,0.578125
+The Intercept,news,left,absolutely agree,5808,4497,1311,0.7742768595041323
+The Japan Times,news,center,agree,27,17,10,0.6296296296296297
+The Jerusalem Post,news,center,somewhat disagree,493,246,247,0.49898580121703856
+The Juggernaut,news,left,agree,18,11,7,0.6111111111111112
+The Justice,news,lean left,somewhat disagree,314,153,161,0.4872611464968153
+The Korea Herald,news,center,somewhat agree,349,204,145,0.5845272206303725
+The Libertarian Republic,news,lean right,somewhat agree,1602,874,728,0.5455680399500624
+The Lincoln Project,news,mixed,absolutely disagree,148,27,121,0.18243243243243243
+The Lufkin Daily News,news,center,agree,11,7,4,0.6363636363636364
+The Maneater,news,lean left,somewhat agree,17,10,7,0.5882352941176471
+The Markup,news,center,somewhat disagree,17,7,10,0.4117647058823529
+The Marshall Project,news,center,somewhat disagree,83,34,49,0.40963855421686746
+The Nation,news,left,absolutely agree,1884,1430,454,0.7590233545647559
+The National Pulse,news,right,absolutely agree,432,352,80,0.8148148148148148
+The New Yorker,news,left,absolutely agree,9890,7970,1920,0.8058645096056622
+The Observer (New York),news,center,disagree,664,241,423,0.3629518072289157
+The Onion (Humor),news,lean left,agree,399,259,140,0.6491228070175439
+The Oracle,news,center,somewhat disagree,235,104,131,0.4425531914893617
+The Oregonian,news,center,strongly disagree,87,24,63,0.27586206896551724
+The Philadelphia Inquirer,news,lean left,somewhat agree,410,206,204,0.5024390243902439
+The Plebeian,news,lean left,somewhat agree,65,34,31,0.5230769230769231
+The Police Tribune,news,lean right,somewhat agree,78,46,32,0.5897435897435898
+The Post Millennial,news,lean right,somewhat agree,489,292,197,0.5971370143149284
+The Press-Enterprise,news,lean right,disagree,17,6,11,0.35294117647058826
+The Red and Black,news,center,somewhat agree,320,187,133,0.584375
+The Reliable Bias,news,center,somewhat disagree,313,140,173,0.4472843450479233
+The Republican,news,center,strongly disagree,724,235,489,0.324585635359116
+The Resurgent,news,right,somewhat agree,229,131,98,0.5720524017467249
+The Root,news,lean left,somewhat disagree,864,393,471,0.4548611111111111
+The Sacramento Bee,news,lean left,somewhat disagree,725,333,392,0.4593103448275862
+The Saturday Evening Post,news,center,somewhat agree,360,209,151,0.5805555555555556
+The Seattle Times,news,center,disagree,427,155,272,0.3629976580796253
+The Telegraph - UK,news,lean right,strongly agree,2100,1414,686,0.6733333333333333
+The Tennesseean,news,center,somewhat agree,11,6,5,0.5454545454545454
+The Texan,news,lean right,somewhat agree,214,124,90,0.5794392523364486
+The Texas Observer,news,lean left,somewhat disagree,129,62,67,0.4806201550387597
+The Texas Tribune,news,lean left,agree,344,225,119,0.6540697674418605
+The Verge,news,lean left,agree,1219,742,477,0.6086956521739131
+The Week - News,news,center,somewhat agree,6658,3643,3015,0.5471613097026135
+The Week - Opinion,news,lean left,somewhat agree,250,141,109,0.564
+The Weekly Standard,news,right,agree,2165,1346,819,0.6217090069284065
+The Western Journal,news,right,strongly agree,2099,1564,535,0.7451167222486899
+TheBlaze.com,news,right,somewhat agree,171421,94394,77027,0.550655987306106
+ThinkProgress,news,left,absolutely agree,3628,2732,896,0.75303197353914
+Time Magazine,news,lean left,somewhat agree,15153,8247,6906,0.5442486636309641
+Townhall,news,right,somewhat disagree,23463,9514,13949,0.405489494097089
+Truth or Fiction,news,center,somewhat agree,592,318,274,0.5371621621621622
+Truthdig,news,left,strongly agree,134,90,44,0.6716417910447762
+TruthOut,news,lean left,somewhat disagree,823,407,416,0.4945321992709599
+U.S. News & World Report,news,lean left,somewhat disagree,3603,1734,1869,0.48126561199000834
+Univision,news,lean left,somewhat disagree,1043,517,526,0.4956855225311601
+Upworthy,news,left,somewhat agree,836,498,338,0.5956937799043063
+USA TODAY,news,center,somewhat disagree,35138,17018,18120,0.4843189709146793
+Vanity Fair,news,lean left,agree,6009,3636,2373,0.6050923614578133
+Variety,news,center,strongly disagree,33,11,22,0.3333333333333333
+Vice,news,left,absolutely agree,3178,2507,671,0.7888609188168659
+Virginia Mercury,news,center,somewhat disagree,76,37,39,0.4868421052631579
+Voice of America,news,center,somewhat agree,249,125,124,0.5020080321285141
+Volante,news,center,somewhat disagree,344,166,178,0.48255813953488375
+Vox,news,left,agree,40430,25948,14482,0.6418006430868167
+VT Digger,news,lean left,somewhat disagree,428,203,225,0.4742990654205608
+Wake Up to Politics,news,center,somewhat agree,157,84,73,0.535031847133758
+Wall Street Journal (News),news,center,somewhat disagree,43058,19825,23233,0.4604254726183288
+Wall Street Journal (Opinion),news,lean right,somewhat agree,16306,9734,6572,0.596958174904943
+WANDTV,news,center,somewhat disagree,130,62,68,0.47692307692307695
+Washington Examiner,news,lean right,strongly agree,15438,10583,4855,0.6855162585827179
+Washington Free Beacon,news,right,somewhat agree,1240,673,567,0.542741935483871
+Washington Monthly,news,lean left,somewhat agree,549,295,254,0.5373406193078324
+Washington Post,news,lean left,agree,55675,33524,22151,0.6021374045801526
+Washington Times,news,lean right,strongly agree,39402,26658,12744,0.676564641388762
+Watchdog.org,news,lean right,somewhat disagree,1194,577,617,0.483249581239531
+WFAE,news,center,somewhat disagree,397,192,205,0.4836272040302267
+WGBH,news,center,somewhat agree,744,394,350,0.5295698924731183
+WGN,news,center,somewhat disagree,273,131,142,0.47985347985347987
+Whatfinger News,news,right,somewhat agree,356,204,152,0.5730337078651685
+Whittier Daily News,news,center,somewhat disagree,21,10,11,0.47619047619047616
+Wired,news,center,somewhat disagree,635,256,379,0.4031496062992126
+Wisconsin Gazette,news,lean left,somewhat agree,459,244,215,0.5315904139433552
+WND.com,news,right,strongly agree,1080,773,307,0.7157407407407408
+Yahoo! News,news,lean left,agree,5819,3567,2252,0.6129919230108266
+Yahoo! The 360,news,mixed,disagree,389,151,238,0.38817480719794345
+Yes! Magazine,news,left,agree,675,446,229,0.6607407407407407
+ZeroHedge,news,lean right,somewhat agree,184,109,75,0.592391304347826
